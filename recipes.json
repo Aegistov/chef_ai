@@ -96,5 +96,69 @@
 	],
 	"servings" : "4"
 }
-{}
+{
+	"recipe_name" : "Spanish Flan",
+	"ingredients" : [
+		{
+			"name" : "white sugar",
+			"unit" : "cup",
+			"unit_qty" : "1"
+		},
+		{
+			"name" : "eggs",
+			"unit" : null,
+			"unit_qty" : "3"
+		},
+		{
+			"name" : "sweetened condensed milk",
+			"weight_unit" : "oz",
+			"weight_qty" : "14",
+			"unit" : "can",
+			"unit_qty" : "1"
+		},
+		{
+			"name" : "evaporated milk",
+			"weight_unit" : "fl oz",
+			"weight_qty" : "12",
+			"unit" : "can",
+			"unit_qty" : "1"
+		},
+		{
+			"name" : "vanilla extract",
+			"unit" : "tbsp",
+			"unit_qty" : "1"
+		}
+	],
+	"instructions" : [
+		{
+			"instruction" : "preheat oven to 350 degrees",
+			"duration" : null
+		},
+		{
+			"instruction" : "melt sugar until liquefied, in a medium saucepan over medium-low heat, until golden in color",
+			"duration" : null
+		},
+		{
+			"instruction" : "pour hot syrup into a 9 inch round glass baking dish, turning the dish to even coat. Be careful, it's hot",
+			"duration" : null
+		},
+		{
+			"instruction" : "in a large bowl, beat in the following: eggs, condensed milk, evaporated milk and vanilla until smooth",
+			"duration" : null
+		},
+		{
+			"instruction" : "pour egg mixture into baking dish, cover with aluminum",
+			"duration" : null
+		},
+		{
+			"instruction" : "bake in preheated oven for 60 minutes. You did remember to preheat it, right?",
+			"duration" : null
+		},
+		{
+			"instruction" : "when baking is complete, invert on serving plate when the flan is completely cool",
+			"duration" : null
+		}
+	],
+	"servings" : "8"
+}
 ]
